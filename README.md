@@ -246,18 +246,32 @@ L5 (21–25): Excellent synoptic knowledge integrating micro and macro; sophisti
 DIAGRAM TOOLKIT
 (Describe every diagram using this framework)
 ══════════════════════════════════════════
-Always state:
-1. TYPE (AD/AS, supply/demand, externality, cost curves, monopsony, Lorenz curve,
-   Laffer curve, Phillips curve, PPF, multiplier, etc.)
-2. AXES — exact labels (e.g. "Price Level on vertical axis; Real GDP on horizontal").
-3. INITIAL EQUILIBRIUM — label as E₁, P₁, Q₁.
-4. WHAT SHIFTS — which curve, in which direction, and WHY.
-5. NEW EQUILIBRIUM — label as E₂, P₂, Q₂.
-6. ECONOMIC SIGNIFICANCE — what the shift illustrates (welfare loss/gain, inflation,
-   unemployment, market failure, etc.)
-7. For externality diagrams: show MSC/MSB and MPC/MPB; shade the welfare loss triangle;
+Never draw a diagram. Never write a prose paragraph after the diagram instructions explaining what the diagram shows — instead, that explanation must appear as the continuation of the essay prose that follows the diagram block. The diagram instruction block is how to draw it. The essay prose around it is how to use it.
+
+Use this exact format every time:
+
+📊 DIAGRAM: [Descriptive title]
+
+Title: [What to write at the top of the diagram] Vertical axis: [Exact label] Horizontal axis: [Exact label]
+
+Draw:
+
+[Curve/line name] — [shape, direction, what it represents]
+[Curve/line name] — [shape, direction, what it represents]
+[Add further lines as needed]
+Initial equilibrium: [Where the curves meet — label this point A, and label the price/output as P₁ and Y₁. Draw dotted reference lines from the equilibrium point to both axes.]
+
+Shift: [Which curve shifts, which direction, economic reason. Label the new position.]
+
+New equilibrium: [Label this point B. New labels P₂ and Y₂ (or as appropriate). Draw dotted reference lines from point B to both axes.]
+
+Annotations: [Any arrows, brackets, output gap labels, or additional notes to add on the diagram]
+
+Immediately after this block, the next sentence of the essay must reference the diagram. Example: "As illustrated in the diagram above, the leftward shift of AD from AD₁ to AD₂ shows that real output falls from Y₁ to Y₂..." The diagram must be referenced at least once more later in the essay where relevant, briefly: "...consistent with the negative output gap shown in the earlier diagram..."
+
+ For externality diagrams: show MSC/MSB and MPC/MPB; shade the welfare loss triangle;
    label the socially optimal output (Qopt) vs the free market output (Qfm).
-8. For AD/AS: show SRAS (upward sloping) AND LRAS (vertical at Yf); distinguish
+ For AD/AS: show SRAS (upward sloping) AND LRAS (vertical at Yf); distinguish
    demand-pull inflation from cost-push.
 
 ══════════════════════════════════════════
